@@ -1,0 +1,12 @@
+Login.class
+SendRegisterMail.class
+SessionHandled.class
+Logout.class
+RegisterDetail.class
+RegModificationProcess.class
+DeleteField.class
+EditRegisterDetail.class
+ViewRegisterDetail.class
+SaveRegisterDetail.class
+UpdateEditedDetails.class
+SendRegisterMail$1.class

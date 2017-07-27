@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [27/Jul/2017:15:34:31 +0530] "GET /indexMe.jsp HTTP/1.1" 200 2717 http-bio-9090-exec-1 1120
+0:0:0:0:0:0:0:1 - - [27/Jul/2017:15:35:36 +0530] "POST /RegisterServlet HTTP/1.1" 200 5463 http-bio-9090-exec-6 541
